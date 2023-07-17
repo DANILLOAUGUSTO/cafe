@@ -19,11 +19,11 @@ header {
     color: gray;
 }
 
-.header2 {
+.header2{
     display: flex;
-    justify-content: space-around;
     align-items: center;
-    width: 40vw;
+    justify-content: space-around;
+    width: 30vw;
 }
 
 li {
@@ -87,11 +87,7 @@ header{
 
 .header2{
     width: 80vw;
-    justify-content: space-around;
-}
-
-.corpo {
-    justify-content: center;
+    justify-content:space-around;
 }
 
 .ladoesquerdo {

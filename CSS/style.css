@@ -22,6 +22,10 @@ header {
 .header2{
     display: flex;
     align-items: center;
+}
+
+ul{
+    display: flex;
     justify-content: space-around;
     width: 30vw;
 }
@@ -88,6 +92,10 @@ header{
 .header2{
     width: 80vw;
     justify-content:space-around;
+}
+
+ul{
+    width: 80vw;
 }
 
 .ladoesquerdo {
